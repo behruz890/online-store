@@ -44,6 +44,7 @@ for (let key in basket_json) {
 		<p class="product-count">count: ${productData['count']}</p>
 		<p class="total-price">total price: ${productData['total price']}</p>
 		<button class="delete">delete</button>
+		<button>delette</button>
 	`;
 
 	productList.appendChild(product);
